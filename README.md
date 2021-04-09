@@ -1,4 +1,4 @@
-# Ball-Game : Logic game buidling using java game develpment tools (AWT and Swing)
+# Ball-Game : Logic game building using java game develpment tools (AWT and Swing)
 (Collaborative project)
 
 
